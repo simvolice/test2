@@ -6,6 +6,12 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * Created by user on 28.09.14.
  */
+
+// TODO:Создать класс певец,чтобы плавал
+
+
+
+
 public class Main {
 
 
