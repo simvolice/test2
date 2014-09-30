@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="310ecc99-bb96-496e-8c89-934329778110" name="Default" comment="" />
+    <list default="true" id="310ecc99-bb96-496e-8c89-934329778110" name="Default" comment="Первый комит в Java&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springIdol/Instrument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springIdol/Instrumentalist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springIdol/Sax.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springIdol/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/springIdol/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/performerConfig.xml" afterPath="$PROJECT_DIR$/src/main/resources/performerConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="test2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,19 +72,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Performer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Performer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="5" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="50" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="21" column="45" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="629">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,40 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Juggler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Juggler.java">
+      <file leaf-file-name="Instrumentalist.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Instrumentalist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+            <state line="11" column="27" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JugglerImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/JugglerImpl.java">
+      <file leaf-file-name="Sax.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Sax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="14" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="799">
+            <state line="16" column="39" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Poem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Poem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="95" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sonet28.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Sonet28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="31" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +104,7 @@
       <file leaf-file-name="performerConfig.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/performerConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="50" selection-start="538" selection-end="538" vertical-scroll-proportion="0.6854839" vertical-offset="0" max-vertical-offset="527">
+            <state line="18" column="91" selection-start="696" selection-end="696" vertical-scroll-proportion="0.8203753" vertical-offset="0" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -138,6 +117,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -147,7 +129,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/springIdol/Poem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springIdol/JugglerImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springIdol/Sonet28.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springIdol/Instrument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springIdol/Instrumentalist.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springIdol/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springIdol/Sax.java" />
         <option value="$PROJECT_DIR$/src/main/resources/performerConfig.xml" />
       </list>
     </option>
@@ -179,6 +164,22 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -186,7 +187,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -295,8 +296,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,6 +312,27 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring-roo-1.2.5.RELEASE/spring-roo-1.2.5.RELEASE/bin" />
     <property name="dynamic.classpath" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="TODO_SCOPE" value="All" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="829" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="154" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="830" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -545,23 +567,44 @@
       <created>1411917375661</created>
       <updated>1411917375661</updated>
       <workItem from="1411917377442" duration="2452000" />
-      <workItem from="1411920810402" duration="4000000" />
+      <workItem from="1411920810402" duration="5452000" />
+      <workItem from="1411926361514" duration="89000" />
+      <workItem from="1412084719054" duration="3353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6452000" />
+    <option name="totallyTimeSpent" value="11346000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -570,9 +613,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32736155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -583,6 +626,7 @@
       <window_info id="Roo Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -607,6 +651,108 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Performer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="629">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Juggler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/JugglerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="14" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Poem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="95" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Sonet28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/performerConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Performer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="629">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Juggler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/JugglerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="14" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Poem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="95" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Sonet28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/performerConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Performer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="32" selection-start="0" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
@@ -663,22 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="50" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Performer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Juggler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
@@ -703,15 +833,55 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Sonet28.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="31" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12461" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Performer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="101" selection-end="101" vertical-scroll-proportion="0.2320819" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Instrument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Sax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="39" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="45" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="629">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springIdol/Instrumentalist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/performerConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="50" selection-start="538" selection-end="538" vertical-scroll-proportion="0.6854839" vertical-offset="0" max-vertical-offset="527">
+        <state line="18" column="91" selection-start="696" selection-end="696" vertical-scroll-proportion="0.8203753" vertical-offset="0" max-vertical-offset="663">
           <folding />
         </state>
       </provider>

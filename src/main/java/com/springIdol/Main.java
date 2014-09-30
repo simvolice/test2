@@ -19,7 +19,7 @@ public class Main {
 
         ApplicationContext ct = new ClassPathXmlApplicationContext("performerConfig.xml");
 
-Performer per = (Performer) ct.getBean("poeticduke");
+Performer per = (Performer) ct.getBean("kenny");
 
 per.perform();
 
